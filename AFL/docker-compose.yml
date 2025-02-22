@@ -1,0 +1,12 @@
+version: "3.8"
+
+services:
+  app:
+    build: .
+    container_name: selenium_scraper
+    volumes:
+      - .:/app
+    environment:
+      - FACEBOOK_USERNAME=${FACEBOOK_USERNAME}
+      - FACEBOOK_PASSWORD=${FACEBOOK_PASSWORD}
+    restart: unless-stopped

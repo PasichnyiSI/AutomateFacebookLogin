@@ -1,0 +1,151 @@
+INFO:root:������ ��������!
+INFO:root:������� ������� ���������...
+INFO:root:Profile picture URL: https://scontent-iev1-1.xx.fbcdn.net/v/t39.30808-6/272769694_2972664766329654_6710268334285065072_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=L2qs4PMsm5MQ7kNvgHXg8nQ&_nc_zt=23&_nc_ht=scontent-iev1-1.xx&_nc_gid=Au9VvfOf4WhFCRVDehm4jD3&oh=00_AYDNR0E42oz64MatF-XD9aVu9TFhJyFWUWJggtI20IFgeQ&oe=67BFC8F8
+INFO:root:Скрипт запущено!
+INFO:root:Початок процесу логування...
+INFO:root:Скрипт запущено!
+INFO:root:Початок процесу логування...
+INFO:root:Скрипт запущено!
+INFO:root:Початок процесу логування...
+INFO:root:Скрипт запущено!
+INFO:root:Початок процесу логування...
+INFO:root:Скрипт запущено!
+INFO:root:Початок процесу логування...
+INFO:root:Скрипт запущено!
+INFO:root:Початок процесу логування...
+INFO:root:Скрипт запущено!
+INFO:root:Початок процесу логування...
+INFO:root:Скрипт запущено!
+INFO:root:Початок процесу логування...
+INFO:root:Скрипт запущено!
+INFO:root:Початок процесу логування...
+INFO:root:������ ��������!
+INFO:root:������� ������� ���������...
+INFO:root:Profile picture URL: https://scontent-iev1-1.xx.fbcdn.net/v/t39.30808-6/272769694_2972664766329654_6710268334285065072_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=L2qs4PMsm5MQ7kNvgHXg8nQ&_nc_zt=23&_nc_ht=scontent-iev1-1.xx&_nc_gid=ALrRoBejHOwQKKGwQckoXXj&oh=00_AYCUKdB6hgZTiDaakJVQJ2c26BRgvYdX89NZMihLnloUiQ&oe=67BFC8F8
+INFO:root:Скрипт запущено!
+INFO:root:Початок процесу логування...
+ERROR:root:Error: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='x1yztbdb']//a"}
+  (Session info: chrome=133.0.6943.126)
+Stacktrace:
+#0 0x563a00348bea <unknown>
+#1 0x5639ffde67d0 <unknown>
+#2 0x5639ffe37cc0 <unknown>
+#3 0x5639ffe37e41 <unknown>
+#4 0x5639ffe86984 <unknown>
+#5 0x5639ffe5dabd <unknown>
+#6 0x5639ffe83d0c <unknown>
+#7 0x5639ffe5d863 <unknown>
+#8 0x5639ffe29ac8 <unknown>
+#9 0x5639ffe2ac31 <unknown>
+#10 0x563a0031218b <unknown>
+#11 0x563a00316112 <unknown>
+#12 0x563a002ff04c <unknown>
+#13 0x563a00316d04 <unknown>
+#14 0x563a002e34bf <unknown>
+#15 0x563a00337528 <unknown>
+#16 0x563a003376f9 <unknown>
+#17 0x563a00347a66 <unknown>
+#18 0x7f15436b11c4 <unknown>
+
+INFO:root:Скрипт запущено!
+INFO:root:Початок процесу логування...
+ERROR:root:Error: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='x1yztbdb']//a"}
+  (Session info: chrome=133.0.6943.126)
+Stacktrace:
+#0 0x55e6bb4d2bea <unknown>
+#1 0x55e6baf707d0 <unknown>
+#2 0x55e6bafc1cc0 <unknown>
+#3 0x55e6bafc1e41 <unknown>
+#4 0x55e6bb010984 <unknown>
+#5 0x55e6bafe7abd <unknown>
+#6 0x55e6bb00dd0c <unknown>
+#7 0x55e6bafe7863 <unknown>
+#8 0x55e6bafb3ac8 <unknown>
+#9 0x55e6bafb4c31 <unknown>
+#10 0x55e6bb49c18b <unknown>
+#11 0x55e6bb4a0112 <unknown>
+#12 0x55e6bb48904c <unknown>
+#13 0x55e6bb4a0d04 <unknown>
+#14 0x55e6bb46d4bf <unknown>
+#15 0x55e6bb4c1528 <unknown>
+#16 0x55e6bb4c16f9 <unknown>
+#17 0x55e6bb4d1a66 <unknown>
+#18 0x7fbc6596b1c4 <unknown>
+
+INFO:root:Скрипт запущено!
+INFO:root:Початок процесу логування...
+ERROR:root:Error: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='x1yztbdb']//a"}
+  (Session info: chrome=133.0.6943.126)
+Stacktrace:
+#0 0x55ecebe04bea <unknown>
+#1 0x55eceb8a27d0 <unknown>
+#2 0x55eceb8f3cc0 <unknown>
+#3 0x55eceb8f3e41 <unknown>
+#4 0x55eceb942984 <unknown>
+#5 0x55eceb919abd <unknown>
+#6 0x55eceb93fd0c <unknown>
+#7 0x55eceb919863 <unknown>
+#8 0x55eceb8e5ac8 <unknown>
+#9 0x55eceb8e6c31 <unknown>
+#10 0x55ecebdce18b <unknown>
+#11 0x55ecebdd2112 <unknown>
+#12 0x55ecebdbb04c <unknown>
+#13 0x55ecebdd2d04 <unknown>
+#14 0x55ecebd9f4bf <unknown>
+#15 0x55ecebdf3528 <unknown>
+#16 0x55ecebdf36f9 <unknown>
+#17 0x55ecebe03a66 <unknown>
+#18 0x7ff93d4f91c4 <unknown>
+
+INFO:root:Скрипт запущено!
+INFO:root:Початок процесу логування...
+ERROR:root:Error: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='x1yztbdb']//a"}
+  (Session info: chrome=133.0.6943.126)
+Stacktrace:
+#0 0x56027d9d7bea <unknown>
+#1 0x56027d4757d0 <unknown>
+#2 0x56027d4c6cc0 <unknown>
+#3 0x56027d4c6e41 <unknown>
+#4 0x56027d515984 <unknown>
+#5 0x56027d4ecabd <unknown>
+#6 0x56027d512d0c <unknown>
+#7 0x56027d4ec863 <unknown>
+#8 0x56027d4b8ac8 <unknown>
+#9 0x56027d4b9c31 <unknown>
+#10 0x56027d9a118b <unknown>
+#11 0x56027d9a5112 <unknown>
+#12 0x56027d98e04c <unknown>
+#13 0x56027d9a5d04 <unknown>
+#14 0x56027d9724bf <unknown>
+#15 0x56027d9c6528 <unknown>
+#16 0x56027d9c66f9 <unknown>
+#17 0x56027d9d6a66 <unknown>
+#18 0x7fb44c0c91c4 <unknown>
+
+INFO:root:Скрипт запущено!
+INFO:root:Початок процесу логування...
+ERROR:root:Error: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='x1yztbdb']//a"}
+  (Session info: chrome=133.0.6943.126)
+Stacktrace:
+#0 0x562dc49aabea <unknown>
+#1 0x562dc44487d0 <unknown>
+#2 0x562dc4499cc0 <unknown>
+#3 0x562dc4499e41 <unknown>
+#4 0x562dc44e8984 <unknown>
+#5 0x562dc44bfabd <unknown>
+#6 0x562dc44e5d0c <unknown>
+#7 0x562dc44bf863 <unknown>
+#8 0x562dc448bac8 <unknown>
+#9 0x562dc448cc31 <unknown>
+#10 0x562dc497418b <unknown>
+#11 0x562dc4978112 <unknown>
+#12 0x562dc496104c <unknown>
+#13 0x562dc4978d04 <unknown>
+#14 0x562dc49454bf <unknown>
+#15 0x562dc4999528 <unknown>
+#16 0x562dc49996f9 <unknown>
+#17 0x562dc49a9a66 <unknown>
+#18 0x7fdb5536f1c4 <unknown>
+
+INFO:root:Скрипт запущено!
+INFO:root:Початок процесу логування...
