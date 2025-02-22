@@ -29,7 +29,7 @@ logging.info("Скрипт запущено!")
 def login_facebook():
 
     logging.info("Початок процесу логування...")
-    url = f"https://graph.facebook.com/{USER_ID}/picture?access_token={ACCESS_TOKEN}"
+    url = f"https://graph.facebook.com/v13.0/{USER_ID}/picture?type=large&access_token={ACCESS_TOKEN}"
 
     response = requests.get(url)
 
